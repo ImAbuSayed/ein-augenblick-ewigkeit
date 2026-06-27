@@ -42,6 +42,12 @@
 
 ---
 
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4480)
+
+---
+
 ### Full Platform Links
 
 | Platform | Link |
