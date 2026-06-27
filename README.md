@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-augenblick-ewigkeit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ein Augenblick Ewigkeit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-augenblick-ewigkeit/) |
+| **Get License** | [Official Music Licensing for Ein Augenblick Ewigkeit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-augenblick-ewigkeit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Parfüm in der Luft, wir fahr'n raus in die Nacht
+> Ein Augenblick Ewigkeit, den dein Lächeln entfacht
+> Der Bass droppt so heavy, doch du schwebst so leicht
+> Komm und tanz für mich, Baby, bis der Morgen uns reicht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
